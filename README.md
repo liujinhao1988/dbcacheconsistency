@@ -1,0 +1,1 @@
+利用rabbitmq实现redis与数据库双写一致性
